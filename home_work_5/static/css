@@ -1,0 +1,7 @@
+body {
+    background: darkseagreen;
+    color: midnightblue;;
+    margin: 50px;
+    font-family: "Helvetica";
+    font-size: 30px;
+}
